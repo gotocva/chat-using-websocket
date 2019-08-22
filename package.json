@@ -1,0 +1,33 @@
+{
+    "name": "simple-chat",
+    "version": "1.0.0",
+    "description": "simple realtime chat using nodejs and websocket ",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test --recursive --full-trace --exit",
+        "start": "node server.js"
+    },
+    "engines": {
+        "node": ">=8.0"
+    },
+    "engineStrict": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sivabharathy-Sparkout/node-boiler-plate.git"
+    },
+    "keywords": [],
+    "author": "sivabharathy",
+    "license": "MIT",
+    "maintainers": [
+        "sivabharathy"
+    ],
+    "bugs": {
+        "url": "https://github.com/Sivabharathy-Sparkout/node-boiler-plate/issues"
+    },
+    "homepage": "https://github.com/Sivabharathy-Sparkout/node-boiler-plate#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "ws": "^7.1.2"
+    },
+    "devDependencies": {}
+}
