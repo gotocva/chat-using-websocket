@@ -13,7 +13,7 @@
     "engineStrict": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Sivabharathy-Sparkout/node-boiler-plate.git"
+        "url": "git+https://github.com/gotocva/chat-using-websocket.git"
     },
     "keywords": [],
     "author": "sivabharathy",
@@ -22,9 +22,9 @@
         "sivabharathy"
     ],
     "bugs": {
-        "url": "https://github.com/Sivabharathy-Sparkout/node-boiler-plate/issues"
+        "url": "https://github.com/gotocva/chat-using-websocket/issues"
     },
-    "homepage": "https://github.com/Sivabharathy-Sparkout/node-boiler-plate#readme",
+    "homepage": "https://github.com/gotocva/chat-using-websocket#readme",
     "dependencies": {
         "express": "^4.16.4",
         "ws": "^7.1.2"
