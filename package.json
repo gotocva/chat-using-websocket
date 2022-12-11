@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/gotocva/chat-using-websocket#readme",
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "ws": "^7.1.2"
     },
     "devDependencies": {}
